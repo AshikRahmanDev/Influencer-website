@@ -116,6 +116,7 @@ nav a{
 
 }
 .product-section h1{
+
     text-align: center;
 }
 .products-list{
@@ -165,7 +166,7 @@ footer{
     color:rgb(34, 34, 34);
     padding-top: 10px;
 }
-footer ,h1, p{
+footer h1, p{
     font-size: 10px;
     color: #787885;
 }
